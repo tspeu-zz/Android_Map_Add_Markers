@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Unit4_Ej3 Mapa JM_B</string>
+    <string name="titulo"> Google Map </string>
+    <string name="boton">ir a Mapa</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+</resources>
